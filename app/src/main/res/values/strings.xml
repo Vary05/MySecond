@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мое первое приложение</string>
+    <string name="first">Введите первую переменную</string>
+    <string name="second">Введите вторую переменную</string>
+</resources>
